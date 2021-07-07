@@ -1,0 +1,66 @@
+{
+   "process_strings":{
+      "options":{
+         "minimum_string_length":4,
+         "unicode_support":false
+      },
+      "data":{
+         "javaw.exe":[
+            {
+               "Vape V3":1955824747
+            }
+         ],
+         "explorer.exe":[
+            
+         ],
+         "lsass.exe":[
+            
+         ],
+         "dwm.exe":[
+            
+         ],
+         "svchost.exe":[
+            
+         ],
+         "NisSrv.exe":[
+            
+         ],
+         "AlphaAntiLeak.exe":[
+            
+         ]
+      }
+   },
+   "start_time_check":[
+      "javaw.exe",
+      "explorer.exe",
+      "dwm.exe",
+      "MsMpEng.exe"
+   ],
+   "blacklisted_machines":[
+      
+   ],
+   "recording_software":{
+      "window_titles":[
+         "obs64",
+         "obs32"
+      ],
+      "window_classes":[
+         ""
+      ],
+      "executables":[
+         "obs64.exe",
+         "obs32.exe",
+         "Action.exe",
+         "RadeonSettings.exe",
+         "ShareX.exe",
+         "NVIDIA Share.exe",
+         "CamRecorder.exe",
+         "Fraps.exe",
+         "recorder.exe"
+      ],
+      "options":{
+         "contains":true,
+         "case-sensitive":false
+      }
+   }
+}
